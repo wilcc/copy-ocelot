@@ -1,0 +1,215 @@
+body{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#topBar {
+background-color: #108C92;
+line-height: 5;
+text-align: center;
+color: white;
+}
+
+#burgerPic{
+
+}
+#top1 {
+    display: flex;
+    justify-content: ;
+    flex-direction: row;
+    
+}
+
+#top1right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-basis: 50%;
+    padding: 100px;
+}
+#signin{
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right:10%;
+    color: #006FEB;
+    height:250px;
+}
+#addressBar{
+    font-size: 60px;
+    font-weight: bold;
+}
+#top2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#top2left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#top2middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 50px;
+}
+#top2right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.toptext{
+    text-align: center;
+}
+.tophead{
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+#top3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    align-items: center;
+}
+#top3left{
+    display: flex;
+    flex-direction: column;
+}
+#top3head{
+    font-weight: bold;
+    font-size: 38px;
+}
+#top3text{
+    font-size: 20px;
+}
+#middle{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10%;
+    padding-right: 10%;
+    align-items: center;
+    background-color: #efefef;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#middleleft{
+    width: 50%;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+#middleright{
+    width: 50%;
+    font-size: 17px;
+}
+#bottom1{
+    display: flex;
+    flex-direction: column;
+}
+#bottom{
+    background-color: #3132AA;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+
+
+}
+.bottomtop{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+.u-line--light-inverted {
+    border-color: hsla(0,0%,100%,.35);
+}
+#bottommid{
+    background-color: #3132AA;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+
+}
+#bottommidsub{
+    display: flex;
+    flex-direction: row;
+    padding-left: 8%;
+    color: white;
+}
+#bottommidsub2{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-evenly;
+    padding-right: 9%;
+}
+#bottommidbox{
+    width: 768px
+    position relative;
+    color: white;
+}
+#bottommidboxx{
+    color: white;
+}
+#addressbar{
+    padding: 500px;
+    text-align: center;
+}
+#gsearch{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px #000 solid;
+    padding: 5px 5px 5px 25px;
+}
+
+#searchbar{
+    width: 300px;
+}
+#subbuttom{
+    text-align: center;
+    font-size: 22px;
+    background-color: #0058B8;
+    color: white;
+    width: 180px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px #000 solid;
+    padding: 5px 5px 5px 5px;
+}
+#submit{
+    width: 270px;
+    height: 50px;
+    background-color: #006FEB;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px #3132AA solid;
+    padding: 5px 5px 5px 5px;
+}
+#email{
+    width: 270px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px #3132AA solid;
+    padding: 5px 5px 5px 5px;
+}
+#number{
+    width: 270px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px #3132AA solid;
+    padding: 5px 5px 5px 5px;
+}
